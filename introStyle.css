@@ -13,7 +13,7 @@ p{
 body{
 	background-color: rgb(3, 244, 252);
 }
-#profile-img{
+img {
 	width: 300px;  
 	height: auto;  
 	text-align: center;  
